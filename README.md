@@ -1,1 +1,3 @@
-# ML_morning_JTN
+# ML_Thursday_morning
+
+John Nardini
